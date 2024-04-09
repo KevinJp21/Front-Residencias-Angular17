@@ -9,5 +9,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'FrontAngular17';
+  title = 'front-angular';
+  lenguajes=['Php','Html','Javascript','NodeJs','Java'];
+  name='sergio Jimenez Martinez'
 }
